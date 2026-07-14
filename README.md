@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Bhavya-0006/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Bhavya-0006/LeetCode/tree/master/0013-roman-to-integer) |
+| [0389-find-the-difference](https://github.com/Bhavya-0006/LeetCode/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -35,4 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Bhavya-0006/LeetCode/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/Bhavya-0006/LeetCode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/Bhavya-0006/LeetCode/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Bhavya-0006/LeetCode/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Bhavya-0006/LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhavya-0006/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Bhavya-0006/LeetCode/tree/master/0011-container-with-most-water) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhavya-0006/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Bhavya-0006/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 ## Hash Table
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Bhavya-0006/LeetCode/tree/master/0011-container-with-most-water) |
 | [0344-reverse-string](https://github.com/Bhavya-0006/LeetCode/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Bhavya-0006/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Bhavya-0006/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

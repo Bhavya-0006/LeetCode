@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Bhavya-0006/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Bhavya-0006/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Bhavya-0006/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Bhavya-0006/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Bhavya-0006/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Bhavya-0006/LeetCode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Bhavya-0006/LeetCode/tree/master/0070-climbing-stairs) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Bhavya-0006/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bhavya-0006/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Bhavya-0006/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bhavya-0006/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |

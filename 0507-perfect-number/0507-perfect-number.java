@@ -5,6 +5,6 @@ class Solution {
         for(int i=1; i<n-1; i++){
             if(n%i==0) sum += i;
         }
-        return sum == num;
+        return (sum == num);
     }
 }

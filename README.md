@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Bhavya-0006/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/Bhavya-0006/LeetCode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavya-0006/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Bhavya-0006/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bhavya-0006/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhavya-0006/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Bhavya-0006/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Bhavya-0006/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Bhavya-0006/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Bhavya-0006/LeetCode/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/Bhavya-0006/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Bhavya-0006/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Math
 |  |
@@ -156,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavya-0006/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Bhavya-0006/LeetCode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Bhavya-0006/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

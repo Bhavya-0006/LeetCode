@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Bhavya-0006/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhavya-0006/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/Bhavya-0006/LeetCode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Bhavya-0006/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavya-0006/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Bhavya-0006/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bhavya-0006/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Bhavya-0006/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Bhavya-0006/LeetCode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Bhavya-0006/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Bhavya-0006/LeetCode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Bhavya-0006/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Bhavya-0006/LeetCode/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/Bhavya-0006/LeetCode/tree/master/0507-perfect-number) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Bhavya-0006/LeetCode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/Bhavya-0006/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhavya-0006/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Bhavya-0006/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Bhavya-0006/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Bhavya-0006/LeetCode/tree/master/0392-is-subsequence) |
 ## String

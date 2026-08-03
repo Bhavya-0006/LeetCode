@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Bhavya-0006/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Bhavya-0006/LeetCode/tree/master/0011-container-with-most-water) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhavya-0006/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Bhavya-0006/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhavya-0006/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/Bhavya-0006/LeetCode/tree/master/0162-find-peak-element) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhavya-0006/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Bhavya-0006/LeetCode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bhavya-0006/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Bhavya-0006/LeetCode/tree/master/0713-subarray-product-less-than-k) |

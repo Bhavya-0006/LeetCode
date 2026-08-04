@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Bhavya-0006/LeetCode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Bhavya-0006/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1260-shift-2d-grid](https://github.com/Bhavya-0006/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1406-stone-game-iii](https://github.com/Bhavya-0006/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhavya-0006/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhavya-0006/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Bhavya-0006/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Bhavya-0006/LeetCode/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/Bhavya-0006/LeetCode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Bhavya-0006/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/Bhavya-0006/LeetCode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhavya-0006/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Bhavya-0006/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Bhavya-0006/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhavya-0006/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Bhavya-0006/LeetCode/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Bhavya-0006/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Bhavya-0006/LeetCode/tree/master/1406-stone-game-iii) |
 ## Memoization
 |  |
 | ------- |
@@ -188,4 +191,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Bhavya-0006/LeetCode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Bhavya-0006/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Bhavya-0006/LeetCode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Bhavya-0006/LeetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Bhavya-0006/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->

@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Bhavya-0006/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Bhavya-0006/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavya-0006/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0486-predict-the-winner](https://github.com/Bhavya-0006/LeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Bhavya-0006/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bhavya-0006/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhavya-0006/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Bhavya-0006/LeetCode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Bhavya-0006/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Bhavya-0006/LeetCode/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/Bhavya-0006/LeetCode/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/Bhavya-0006/LeetCode/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/Bhavya-0006/LeetCode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Bhavya-0006/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhavya-0006/LeetCode/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/Bhavya-0006/LeetCode/tree/master/0486-predict-the-winner) |
 ## Two Pointers
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Bhavya-0006/LeetCode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhavya-0006/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Bhavya-0006/LeetCode/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/Bhavya-0006/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Bhavya-0006/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Bhavya-0006/LeetCode/tree/master/1406-stone-game-iii) |
 ## Memoization
@@ -190,14 +194,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Bhavya-0006/LeetCode/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/Bhavya-0006/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Bhavya-0006/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Bhavya-0006/LeetCode/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Bhavya-0006/LeetCode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/Bhavya-0006/LeetCode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Bhavya-0006/LeetCode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/Bhavya-0006/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->

@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Bhavya-0006/LeetCode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Bhavya-0006/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Bhavya-0006/LeetCode/tree/master/0292-nim-game) |
+| [0367-valid-perfect-square](https://github.com/Bhavya-0006/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/Bhavya-0006/LeetCode/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/Bhavya-0006/LeetCode/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/Bhavya-0006/LeetCode/tree/master/0877-stone-game) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhavya-0006/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Bhavya-0006/LeetCode/tree/master/0162-find-peak-element) |
+| [0367-valid-perfect-square](https://github.com/Bhavya-0006/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bhavya-0006/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Bhavya-0006/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Bhavya-0006/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |

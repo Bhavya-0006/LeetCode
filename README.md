@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Bhavya-0006/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Bhavya-0006/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Bhavya-0006/LeetCode/tree/master/0392-is-subsequence) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhavya-0006/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Bhavya-0006/LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Bhavya-0006/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Bhavya-0006/LeetCode/tree/master/0392-is-subsequence) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhavya-0006/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Bhavya-0006/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bhavya-0006/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhavya-0006/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhavya-0006/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Bhavya-0006/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Bhavya-0006/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Bhavya-0006/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Bhavya-0006/LeetCode/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhavya-0006/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Memoization
 |  |
 | ------- |
